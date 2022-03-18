@@ -5,7 +5,8 @@ WEB3 developer | Founder & Developer of https://bytehash.tech | buildspace alumn
 -----------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Berlin, Germany
-* ✉️  You can contact me at [praneeth6226@gmail.com](mailto:praneeth6226@gmail.com )
+* 🕸️  My website [praneethreddy.me](https://praneethreddy.me/)
+* ✉️  You can contact me at [praneeth6226@gmail.com](mailto:praneeth6226@gmail.com )
 * 🧠  I'm learning A lot in WEB3
 * 🤝  I'm open to collaborating on Any project in WEB3
 
