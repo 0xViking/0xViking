@@ -2,7 +2,7 @@
 
 **Senior Software Engineer · Blockchain Compliance · DeFi · AI-Augmented Engineering**
 
-📍 Hyderabad, India · UTC+5:30 · 🌐 [praneethreddy.me](https://praneethreddy.me)
+📍 Bengaluru, India · UTC+5:30 · 🌐 [praneethreddy.me](https://praneethreddy.me)
 
 > Currently shipping. Open to the right conversation — senior, staff, or founding-engineer roles.
 
