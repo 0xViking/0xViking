@@ -18,6 +18,7 @@ Architected the end-to-end on-chain monitoring system for **Circle (USDC)** acro
 
 | | | |
 |---|---|---|
+| 📍 | **[doora.to](https://doora.to)** | Memorable addresses for India — handle like `praneeth@home` → ±5 m location via India Post's DIGIPIN. No app, no signup. |
 | 🛰️ | **[OrbitUPI](https://orbitupi.com)** | Research-grade lens on India's UPI ecosystem — live volumes, app share, bank-level breakdowns. |
 | 📊 | **[Bharat Pay Index](https://bharatpayindex.com)** | Daily index of India's digital-payments health — throughput, success rates, regulator signals. |
 | 🛠️ | **[ByteHash](https://bytehashlabs.com)** | Chain-agnostic smart-contract testing. web3con winner — 2nd place + Best dApp on Polygon ($11K). |
